@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233194873646",
+    "project_id": "uploadfirebase-b49ff",
+    "storage_bucket": "uploadfirebase-b49ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233194873646:android:5d949474723db67b4dd0bf",
+        "android_client_info": {
+          "package_name": "com.agrgal.uploads"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsj5Z-R19UAAWco-xpyk9s80TpQRi3K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233194873646:android:08373f0e26d27ffa4dd0bf",
+        "android_client_info": {
+          "package_name": "com.agrgal.uploads_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnsj5Z-R19UAAWco-xpyk9s80TpQRi3K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
